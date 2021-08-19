@@ -1,0 +1,24 @@
+#body{
+    background:linear-gradient(lightblue 0%, blue 100%);
+}
+hr{
+    border-top: 1px solid purple;
+}
+#title{
+    font-size: 25px;
+    height:50px;
+}
+.cam{
+    border-width:2px ;
+    border-style: solid;
+    border-color: black;
+}
+.label{
+    width: 100%;
+    background-color: blue;
+    font-size: 20px;
+}
+.answers{
+    color:lightblue;
+    font-size:20px;
+}
